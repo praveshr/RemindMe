@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  when: 2014-03-19
+  where: MyString
+
+two:
+  title: MyString
+  when: 2014-03-19
+  where: MyString
